@@ -1,0 +1,51 @@
+Feedback_ID,Movie_Title,Genre,Overall_Rating,Story_Rating,Acting_Rating,Watch_Again,Viewer_Age,Viewer_Gender,Platform,Review_Date,City
+2001,RRR,Action,4.2,4.5,4.0,Yes,25,Male,Netflix,05/01/2024,Pune
+2002,3 Idiots,Drama,4.8,5.0,4.7,Yes,30,Female,Hotstar,10/01/2024,Mumbai
+2003,Golmaal,Comedy,3.5,3.2,3.8,No,22,Male,Amazon Prime,12/02/2024,Nashik
+2004,Dilwale,Romance,NULL,4.1,3.9,Yes,35,Female,Zee5,15/02/2024,Pune
+2005,KGF 2,Action,4.6,4.8,4.5,Yes,28,Male,Theatre,20/02/2024,Nagpur
+2006,Andhadhun,Thriller,4.9,5.0,4.8,Yes,32,Female,Netflix,01/03/2024,Mumbai
+2006,Andhadhun,Thriller,4.9,5.0,4.8,Yes,32,Female,Netflix,01/03/2024,Mumbai
+2007,Robot,Sci-Fi,3.8,3.5,4.1,Yes,40,Male,Amazon Prime,05/03/2024,Chandwad
+2008,Housefull,Comedy,2.9,2.7,3.1,No,21,Female,Hotstar,10/03/2024,Pune
+2009,Jab We Met,Romance,NULL,4.2,NULL,Yes,27,Female,Netflix,14/03/2024,Nashik
+2010,Pathaan,Action,9.5,4.6,4.4,Yes,29,Male,Theatre,18/03/2024,Nagpur
+2011,Drishyam,Thriller,4.7,4.8,4.6,Yes,45,Male,Hotstar,22/03/2024,Mumbai
+2012,Bajrangi Bhaijaan,Drama,4.5,4.6,4.4,Yes,33,Male,Netflix,25/03/2024,Delhi
+2013,Uri,Action,4.7,4.5,4.8,Yes,27,Male,Amazon Prime,28/03/2024,Mumbai
+2014,Queen,Drama,4.3,4.1,4.5,Yes,24,Female,Netflix,01/04/2024,Pune
+2015,Dabangg,Action,3.2,3.0,3.5,No,26,Male,Hotstar,03/04/2024,Nashik
+2016,PK,Comedy,4.6,4.4,4.7,Yes,31,Female,Amazon Prime,05/04/2024,Mumbai
+2017,Dangal,Drama,4.9,4.8,5.0,Yes,38,Male,Netflix,08/04/2024,Delhi
+2018,Jumanji,Sci-Fi,3.9,3.7,4.0,Yes,19,Male,Theatre,10/04/2024,Pune
+2019,Dil Chahta Hai,Comedy,4.4,4.2,4.3,Yes,42,Male,Hotstar,12/04/2024,Mumbai
+2020,Tanhaji,Action,4.1,4.0,4.3,Yes,36,Male,Amazon Prime,15/04/2024,Nagpur
+2021,Stree,Thriller,4.2,4.0,4.1,Yes,23,Female,Netflix,18/04/2024,Chandwad
+2022,Barfi,Romance,4.5,4.3,4.6,Yes,29,Female,Zee5,20/04/2024,Pune
+2023,Ek Tha Tiger,Action,3.6,3.4,3.8,No,34,Male,Hotstar,22/04/2024,Mumbai
+2024,KKHH,Romance,4.0,3.8,4.2,Yes,45,Female,Netflix,25/04/2024,Delhi
+2025,Munnabhai MBBS,Comedy,4.7,4.5,4.8,Yes,28,Male,Amazon Prime,28/04/2024,Nashik
+2026,Lagaan,Drama,4.8,4.9,4.7,Yes,50,Male,Hotstar,01/05/2024,Mumbai
+2027,Fukrey,Comedy,3.4,3.2,3.6,No,20,Male,Amazon Prime,03/05/2024,Pune
+2028,Raazi,Thriller,4.6,4.4,4.8,Yes,31,Female,Netflix,05/05/2024,Delhi
+2029,Bang Bang,Action,3.1,2.9,3.3,No,25,Male,Theatre,08/05/2024,Nagpur
+2030,English Vinglish,Drama,4.2,4.0,4.5,Yes,40,Female,Zee5,10/05/2024,Mumbai
+2031,Padmaavat,Romance,4.3,4.5,4.1,Yes,33,Male,Hotstar,12/05/2024,Pune
+2032,Ra.One,Sci-Fi,3.0,2.8,3.2,No,22,Male,Amazon Prime,15/05/2024,Nashik
+2033,War,Action,4.0,3.8,4.2,Yes,27,Male,Netflix,18/05/2024,Mumbai
+2034,Piku,Drama,4.4,4.2,4.6,Yes,35,Female,Amazon Prime,20/05/2024,Delhi
+2035,Ghajini,Thriller,4.1,4.0,4.3,Yes,30,Male,Hotstar,22/05/2024,Pune
+2036,Chennai Express,Comedy,3.3,3.1,3.5,No,26,Female,Zee5,25/05/2024,Mumbai
+2037,Tamasha,Romance,3.8,3.6,4.0,Yes,28,Male,Netflix,28/05/2024,Nagpur
+2038,Rockstar,Romance,4.2,4.0,4.4,Yes,24,Male,Amazon Prime,01/06/2024,Chandwad
+2039,Bhool Bhulaiyaa,Thriller,4.3,4.1,4.2,Yes,32,Female,Hotstar,03/06/2024,Mumbai
+2040,Koi Mil Gaya,Sci-Fi,3.7,3.5,3.9,Yes,38,Male,Zee5,05/06/2024,Pune
+2041,Golmaal Returns,Comedy,3.0,2.8,3.2,No,21,Female,Amazon Prime,08/06/2024,Nashik
+2042,Jawan,Action,4.5,4.3,4.6,Yes,30,Male,Netflix,10/06/2024,Mumbai
+2043,Swades,Drama,4.6,4.4,4.7,Yes,42,Male,Hotstar,12/06/2024,Delhi
+2044,Lootera,Romance,4.1,3.9,4.2,Yes,27,Female,Amazon Prime,15/06/2024,Pune
+2045,Krrish,Sci-Fi,3.5,3.3,3.7,No,19,Male,Netflix,18/06/2024,Nagpur
+2046,Gangs of Wasseypur,Thriller,4.8,4.7,4.9,Yes,35,Male,Amazon Prime,20/06/2024,Mumbai
+2047,YJHD,Romance,4.3,4.1,4.4,Yes,25,Female,Netflix,22/06/2024,Mumbai
+2048,Taare Zameen Par,Drama,5.0,5.0,4.9,Yes,44,Female,Hotstar,25/06/2024,Delhi
+2049,Kahaani,Thriller,4.5,4.3,4.6,Yes,31,Female,Zee5,28/06/2024,Kolkata
